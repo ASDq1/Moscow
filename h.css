@@ -2,8 +2,6 @@ body{
   margin:0px 10px;
   background: rgba(196, 248, 8, 0.534);
 }
-body *{
-}
 .sentence{
   color:red;
 }
