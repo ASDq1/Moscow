@@ -1,0 +1,23 @@
+body{
+  margin:0px 10px;
+  background: rgba(196, 248, 8, 0.534);
+}
+body *{
+}
+.sentence{
+  color:red;
+}
+p {
+  text-indent: 20px;
+  margin: 20px 0px;
+  color:rgb(4, 14, 48);
+  font-size: 20px;
+}
+.forgot_name{
+  background:rgb(180, 2, 2);
+  color: #ffff;
+  font-style: inherit;
+}
+script{
+  visibility: hidden;
+}
